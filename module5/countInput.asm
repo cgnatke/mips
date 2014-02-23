@@ -1,8 +1,8 @@
 
 #############################################
-#  Program Name:          talkToMe.asm
+#  Program Name:          countInput.asm
 #    Author:                Chris Natke
-#    Due Date:              February 15, 2014
+#    Due Date:              February 21, 2014
 #  Course/Section:        CSC 211-001
 #    Program Description:   
 ## talkToMe.asm - prompt user for word then counts the number of chars
